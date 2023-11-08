@@ -16,7 +16,14 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Subscriptions\" />
+      <Folder Include="Subscriptions\Controllers\" />
+      <Folder Include="Subscriptions\Domain\Models\ValueObjects\" />
+      <Folder Include="Subscriptions\Domain\Repositories\" />
+      <Folder Include="Subscriptions\Domain\Services\" />
+      <Folder Include="Subscriptions\Infrastructure\" />
+      <Folder Include="Subscriptions\Mapping\" />
+      <Folder Include="Subscriptions\Resources\" />
+      <Folder Include="Subscriptions\Services\" />
     </ItemGroup>
 
 </Project>
